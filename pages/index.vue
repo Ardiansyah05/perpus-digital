@@ -54,7 +54,7 @@
 }
 
 .card.bg-buku {
-  background: url('../assets/img/bg-home-cari-buku (2).jpg') no-repeat center center;
+  background: url(../assets/img/bg-home-cari-buku (2).jpg) no-repeat center center;
   background-size: cover;
 }
 
