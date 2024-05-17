@@ -3,7 +3,7 @@
     <div class="row my-5">
       <div class="col-lg-6">
         <nuxt-link to="/pengunjung/tambah">
-          <div class="card bg-pengunjung rounded-4">
+          <div class="card bg-pengunjung rounded-4" data-v-98588d9b="">
             <div class="card-body">
               <h2>Pengunjung</h2>
             </div>
