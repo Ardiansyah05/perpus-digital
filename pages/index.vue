@@ -47,7 +47,7 @@
 }
 
 .card.bg-pengunjung {
-  background-image: url(../assets/img/bg-home-kunjungan.jpeg);
+  background-image: url("../assets/img/bg-home-kunjungan.jpeg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
