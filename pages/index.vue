@@ -47,14 +47,16 @@
 }
 
 .card.bg-pengunjung {
-  background-image: url("../assets/img/bg-home-kunjungan.jpeg");
+  background-image: url("../assets/img/bg-home-kunjungan.webp");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
 .card.bg-buku {
-  background-image: url("../assets/img/bg-home-cari-buku.webp") no-repeat center center;
+  background-image: url("../assets/img/bg-home-cari-buku.jpeg");
+  background-repeat: no-repeat;
+  background-position: center center;
   background-size: cover;
 }
 
